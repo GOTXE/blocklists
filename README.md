@@ -58,5 +58,14 @@ Recopilatorio de listas para Pi-Hole:
 - [W3KBL Static List](https://v.firebog.net/hosts/static/w3kbl.txt)  
 - [MVPS Hosts](https://winhelp2002.mvps.org/hosts.txt)  
 
+Porno
+- [Block Porn 00](https://raw.githubusercontent.com/columndeeply/hosts/main/hosts00)
+- [Block Porn 01](https://raw.githubusercontent.com/columndeeply/hosts/main/hosts01)
+- [Block Porn 02](https://raw.githubusercontent.com/columndeeply/hosts/main/hosts02)
+- [Block Porn 03](https://raw.githubusercontent.com/columndeeply/hosts/main/hosts03)
+- [Block Porn 04](https://raw.githubusercontent.com/columndeeply/hosts/main/hosts04)
+
+
+
 Seguimos bloqueando a los malos 😊 (act.19/11/2024)
 
